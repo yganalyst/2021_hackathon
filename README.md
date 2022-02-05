@@ -1,4 +1,7 @@
-# 포스트 코로나 , 도시의 라이프 사이클을 알아야 지역을 살릴 수 있다!  
+
+
+
+
 
 ---
 
@@ -9,7 +12,13 @@
 - Rank : 11위  
 - URL : https://dacon.io/competitions/official/235758/codeshare/3163  
 
-## Team  
+## Contents  
+
+**DataPreprocessing.ipynb**  
+- 
+
+
+## Team (데이터몬스터)  
 [@Injeong Cho](https://github.com/choinjeong)  
 [@Jooyeon kang]()  
 
